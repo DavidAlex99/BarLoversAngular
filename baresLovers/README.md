@@ -1,5 +1,18 @@
 # BaresLovers
 
+## Este proyecto (Angular) esta en relacion con el Back-end/API para las correspondientes peticiones
+https://github.com/DavidAlex99/BarLoversAngular.git
+
+## Iniciar el servidor
+Para iniciar el servidor y tomar los datos devueltos por el Back-end con respecto a los bares,se ingresa en al consola de comandos:
+```
+ng serve -o
+```
+
+Por defecto, Angular toma el puerto 4200.
+Asegurarse de que al iniciar  el servidor, este puerto o se encuentre ocupado, puesto que este numero se encuentra registrado en el Back-end para que pueda hacer peticiones CORS.
+Si toma otro puerto, no tse conectara con el Back-end
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
