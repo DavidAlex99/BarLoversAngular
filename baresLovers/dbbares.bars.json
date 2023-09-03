@@ -1,0 +1,1035 @@
+[{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd30092e"
+  },
+  "name": "Pez-azul",
+  "ubication": "puerto-azul",
+  "description": "descripcion borrador del bar puerto-azul",
+  "menu": [
+    {
+      "name": "caramelo",
+      "price": 8.99,
+      "namePhoto": "Caramelo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Caramelo.jpg?raw=true"
+    },
+    {
+      "name": "Churros",
+      "price": 8.49,
+      "namePhoto": "Churros",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Churro.jpg?raw=true"
+    },
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Enrollado",
+      "price": 8.49,
+      "namePhoto": "Enrollado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Enrollado.jpg?raw=true"
+    },
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Fria",
+      "price": 8.49,
+      "namePhoto": "Fria",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fria.jpg?raw=true"
+    },
+    {
+      "name": "Guisado",
+      "price": 8.49,
+      "namePhoto": "Guisado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Guisado.jpg?raw=true"
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 8.49,
+      "namePhoto": "Hamburguesa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Hamburguesa.jpg?raw=true"
+    },
+    {
+      "name": "PanCakes",
+      "price": 8.49,
+      "namePhoto": "PanCakes",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pancakes.jpeg?raw=true"
+    },
+    {
+      "name": "Papas Fritas",
+      "price": 8.49,
+      "namePhoto": "PapasFritas",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1PapasFritas.jpg?raw=true"
+    },
+    {
+      "name": "Pasta",
+      "price": 8.49,
+      "namePhoto": "Pasta",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pasta.jpg?raw=true"
+    },
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Pizza",
+      "price": 8.49,
+      "namePhoto": "Pizza",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pizza.jpg?raw=true"
+    },
+    {
+      "name": "Pollo",
+      "price": 8.49,
+      "namePhoto": "Pollo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pollo.jpg?raw=true"
+    },
+    {
+      "name": "Ratatuille",
+      "price": 8.49,
+      "namePhoto": "Ratatuille",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Rtaat.jpg?raw=true"
+    },
+    {
+      "name": "Salteado",
+      "price": 8.49,
+      "namePhoto": "Salteado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Salteado.jpg?raw=true"
+    },
+    {
+      "name": "Sateado",
+      "price": 8.49,
+      "namePhoto": "Sateado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sateado.jpg?raw=true"
+    },
+    {
+      "name": "Sopa",
+      "price": 8.49,
+      "namePhoto": "Sopa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sopa.jpg?raw=true"
+    },
+    {
+      "name": "Tacos",
+      "price": 8.49,
+      "namePhoto": "Tacos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tacos.jpg?raw=true"
+    },
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-azul",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd300930"
+  },
+  "name": "Bar-Verde",
+  "ubication": "ciudad-verde",
+  "description": "descripcion borrador del bar ciudad-verde",
+  "menu": [
+    {
+      "name": "caramelo",
+      "price": 8.99,
+      "namePhoto": "Caramelo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Caramelo.jpg?raw=true"
+    },
+    {
+      "name": "Churros",
+      "price": 8.49,
+      "namePhoto": "Churros",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Churro.jpg?raw=true"
+    },
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Fria",
+      "price": 8.49,
+      "namePhoto": "Fria",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fria.jpg?raw=true"
+    },
+    {
+      "name": "Guisado",
+      "price": 8.49,
+      "namePhoto": "Guisado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Guisado.jpg?raw=true"
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 8.49,
+      "namePhoto": "Hamburguesa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Hamburguesa.jpg?raw=true"
+    },
+    {
+      "name": "PanCakes",
+      "price": 8.49,
+      "namePhoto": "PanCakes",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pancakes.jpeg?raw=true"
+    },
+    
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Pizza",
+      "price": 8.49,
+      "namePhoto": "Pizza",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pizza.jpg?raw=true"
+    },
+    {
+      "name": "Pollo",
+      "price": 8.49,
+      "namePhoto": "Pollo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pollo.jpg?raw=true"
+    },
+    {
+      "name": "Ratatuille",
+      "price": 8.49,
+      "namePhoto": "Ratatuille",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Rtaat.jpg?raw=true"
+    },
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar2/bar2Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar2/bar2Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-verde",
+      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+    },
+    {
+      "nameEvent": "evento 2 puerto-verde",
+      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-verde",
+      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/post1.jpg"
+    },
+    {
+      "namePost": "post 2 puerto-verde",
+      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/post1.jpg"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd300932"
+  },
+  "name": "Bar-Rojo",
+  "ubication": "ciudad-roja",
+  "description": "descripcion borrador del bar puerto-rojo",
+  "menu": [
+    {
+      "name": "Alitas Picantes",
+      "price": 9.99,
+      "namePhoto": "Alitas",
+      "url": "https://github.com/DavidAlex99/communityApp/blob/main/communitybar/assets/churroBar1.jpg?raw=true"
+    },
+    {
+      "name": "Nachos",
+      "price": 7.49,
+      "namePhoto": "Nachos",
+      "url": "https://github.com/DavidAlex99/communityApp/blob/main/communitybar/assets/churroBar1.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar3/bar3Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar3/bar3Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-rojo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-rojo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-rojo",
+      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-rojo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-rojo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-rojo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd300934"
+  },
+  "name": "Bar-Naranja",
+  "ubication": "ciudad-Naranja",
+  "description": "descripcion borrador del bar puerto-naraanja",
+  "menu": [
+    {
+      "name": "caramelo",
+      "price": 8.99,
+      "namePhoto": "Caramelo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Caramelo.jpg?raw=true"
+    },
+    {
+      "name": "Churros",
+      "price": 8.49,
+      "namePhoto": "Churros",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Churro.jpg?raw=true"
+    },
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Enrollado",
+      "price": 8.49,
+      "namePhoto": "Enrollado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Enrollado.jpg?raw=true"
+    },
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Fria",
+      "price": 8.49,
+      "namePhoto": "Fria",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fria.jpg?raw=true"
+    },
+    {
+      "name": "Guisado",
+      "price": 8.49,
+      "namePhoto": "Guisado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Guisado.jpg?raw=true"
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 8.49,
+      "namePhoto": "Hamburguesa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Hamburguesa.jpg?raw=true"
+    },
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Pizza",
+      "price": 8.49,
+      "namePhoto": "Pizza",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pizza.jpg?raw=true"
+    },
+    {
+      "name": "Pollo",
+      "price": 8.49,
+      "namePhoto": "Pollo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pollo.jpg?raw=true"
+    },
+    {
+      "name": "Ratatuille",
+      "price": 8.49,
+      "namePhoto": "Ratatuille",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Rtaat.jpg?raw=true"
+    },
+    
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar4/bar4Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar4/bar4Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3  puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-Naranja",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd300936"
+  },
+  "name": "Bar-Amarilla",
+  "ubication": "ciudad-Amarilla",
+  "description": "descripcion borrador del bar puerto-amarillo",
+  "menu": [
+    {
+      "name": "Alitas Picantes",
+      "price": 9.99,
+      "namePhoto": "Alitas",
+      "url": "https://github.com/DavidAlex99/communityApp/blob/main/communitybar/assets/churroBar1.jpg?raw=true"
+    },
+    {
+      "name": "Nachos",
+      "price": 7.49,
+      "namePhoto": "Nachos",
+      "url": "https://github.com/DavidAlex99/communityApp/blob/main/communitybar/assets/churroBar1.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar5/bar5Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar5/bar5Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-amarillo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd300938"
+  },
+  "name": "Bar-Cafe",
+  "ubication": "ciudad-Cafe",
+  "description": "descripcion borrador del bar puerto-cafe",
+  "menu": [
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Enrollado",
+      "price": 8.49,
+      "namePhoto": "Enrollado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Enrollado.jpg?raw=true"
+    },
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 8.49,
+      "namePhoto": "Hamburguesa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Hamburguesa.jpg?raw=true"
+    },
+    {
+      "name": "PanCakes",
+      "price": 8.49,
+      "namePhoto": "PanCakes",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pancakes.jpeg?raw=true"
+    },
+    {
+      "name": "Papas Fritas",
+      "price": 8.49,
+      "namePhoto": "PapasFritas",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1PapasFritas.jpg?raw=true"
+    },
+    {
+      "name": "Pasta",
+      "price": 8.49,
+      "namePhoto": "Pasta",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pasta.jpg?raw=true"
+    },
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Salteado",
+      "price": 8.49,
+      "namePhoto": "Salteado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Salteado.jpg?raw=true"
+    },
+    {
+      "name": "Sateado",
+      "price": 8.49,
+      "namePhoto": "Sateado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sateado.jpg?raw=true"
+    },
+    {
+      "name": "Sopa",
+      "price": 8.49,
+      "namePhoto": "Sopa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sopa.jpg?raw=true"
+    },
+    {
+      "name": "Tacos",
+      "price": 8.49,
+      "namePhoto": "Tacos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tacos.jpg?raw=true"
+    },
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar6/bar6Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar6/bar6Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-cafe",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd30093a"
+  },
+  "name": "Bar-Dorado",
+  "ubication": "ciudad-Dorado",
+  "description": "descripcion borrador del bar puerto-dorado",
+  "menu": [
+    {
+      "name": "caramelo",
+      "price": 8.99,
+      "namePhoto": "Caramelo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Caramelo.jpg?raw=true"
+    },
+    {
+      "name": "Churros",
+      "price": 8.49,
+      "namePhoto": "Churros",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Churro.jpg?raw=true"
+    },
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Enrollado",
+      "price": 8.49,
+      "namePhoto": "Enrollado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Enrollado.jpg?raw=true"
+    },
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Pasta",
+      "price": 8.49,
+      "namePhoto": "Pasta",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pasta.jpg?raw=true"
+    },
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Pizza",
+      "price": 8.49,
+      "namePhoto": "Pizza",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pizza.jpg?raw=true"
+    },
+    {
+      "name": "Pollo",
+      "price": 8.49,
+      "namePhoto": "Pollo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pollo.jpg?raw=true"
+    },
+    {
+      "name": "Ratatuille",
+      "price": 8.49,
+      "namePhoto": "Ratatuille",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Rtaat.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar7/bar7Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar7/bar7Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-dorado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd30093c"
+  },
+  "name": "Bar_Plateado",
+  "ubication": "ciudad_Plateado",
+  "description": "descripcion borrador del bar puerto-platetado",
+  "menu": [
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Fria",
+      "price": 8.49,
+      "namePhoto": "Fria",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fria.jpg?raw=true"
+    },
+    {
+      "name": "Guisado",
+      "price": 8.49,
+      "namePhoto": "Guisado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Guisado.jpg?raw=true"
+    },
+    {
+      "name": "Pastita",
+      "price": 8.49,
+      "namePhoto": "Pastita",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pastita.jpg?raw=true"
+    },
+    {
+      "name": "Pizza",
+      "price": 8.49,
+      "namePhoto": "Pizza",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pizza.jpg?raw=true"
+    },
+    {
+      "name": "Pollo",
+      "price": 8.49,
+      "namePhoto": "Pollo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Pollo.jpg?raw=true"
+    },
+    {
+      "name": "Ratatuille",
+      "price": 8.49,
+      "namePhoto": "Ratatuille",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Rtaat.jpg?raw=true"
+    },
+    {
+      "name": "Salteado",
+      "price": 8.49,
+      "namePhoto": "Salteado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Salteado.jpg?raw=true"
+    },
+    {
+      "name": "Sateado",
+      "price": 8.49,
+      "namePhoto": "Sateado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sateado.jpg?raw=true"
+    },
+    {
+      "name": "Sopa",
+      "price": 8.49,
+      "namePhoto": "Sopa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Sopa.jpg?raw=true"
+    },
+    {
+      "name": "Tacos",
+      "price": 8.49,
+      "namePhoto": "Tacos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tacos.jpg?raw=true"
+    },
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar8/bar8Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar8/bar8Interior.jpg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-platetado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1ca094da4c1b5dd30093e"
+  },
+  "name": "Bar-Zafiro",
+  "ubication": "ciudad-Zafiro",
+  "description": "descripcion borrador del bar puerto-zafio",
+  "menu": [
+    {
+      "name": "caramelo",
+      "price": 8.99,
+      "namePhoto": "Caramelo",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Caramelo.jpg?raw=true"
+    },
+    {
+      "name": "Churros",
+      "price": 8.49,
+      "namePhoto": "Churros",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Churro.jpg?raw=true"
+    },
+    {
+      "name": "Cortado",
+      "price": 8.49,
+      "namePhoto": "Cortado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Cortado.jpg?raw=true"
+    },
+    {
+      "name": "Enrollado",
+      "price": 8.49,
+      "namePhoto": "Enrollado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Enrollado.jpg?raw=true"
+    },
+    {
+      "name": "Ensalada",
+      "price": 8.49,
+      "namePhoto": "Ensalada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Ensalada.jpg?raw=true"
+    },
+    {
+      "name": "Fria",
+      "price": 8.49,
+      "namePhoto": "Fria",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Fria.jpg?raw=true"
+    },
+    {
+      "name": "Guisado",
+      "price": 8.49,
+      "namePhoto": "Guisado",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Guisado.jpg?raw=true"
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 8.49,
+      "namePhoto": "Hamburguesa",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Hamburguesa.jpg?raw=true"
+    },
+    {
+      "name": "Tallarin",
+      "price": 8.49,
+      "namePhoto": "Tallarin",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Tallarin.jpg?raw=true"
+    },
+    {
+      "name": "Taquitos",
+      "price": 8.49,
+      "namePhoto": "Taquitos",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Taquitos.jpg?raw=true"
+    }
+  ],
+  "poster": [
+    {
+      "namePhoto": "Fachada",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar9/bar9Fachada.jpg?raw=true"
+    },
+    {
+      "namePhoto": "Interior",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar9/bar9Interior.jpeg?raw=true"
+    }
+  ],
+  "events": [
+    {
+      "nameEvent": "evento 1 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 2 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+    },
+    {
+      "nameEvent": "evento 3 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+    }
+  ],
+  "posts": [
+    {
+      "namePost": "post 1 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+    },
+    {
+      "namePost": "post 2 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+    },
+    {
+      "namePost": "post 3 puerto-zafio",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+    }
+  ],
+  "__v": 0
+}]
