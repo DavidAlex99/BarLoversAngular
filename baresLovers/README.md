@@ -10,8 +10,8 @@ ng serve -o
 ```
 
 Por defecto, Angular toma el puerto 4200.
-Asegurarse de que al iniciar  el servidor, este puerto o se encuentre ocupado, puesto que este numero se encuentra registrado en el Back-end para que pueda hacer peticiones CORS.
-Si toma otro puerto, no tse conectara con el Back-end
+Asegurarse de que al iniciar  el servidor, este puerto no se encuentre ocupado, puesto que este numero se encuentra registrado en el Back-end para que pueda hacer peticiones CORS.
+Si toma otro puerto, no se conectara con el Back-end
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
