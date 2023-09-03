@@ -1,7 +1,7 @@
 # BaresLovers
 
 ## Este proyecto (Angular) esta en relacion con el Back-end/API para las correspondientes peticiones
-https://github.com/DavidAlex99/BarLoversAngular.git
+https://github.com/DavidAlex99/BarLoversAdminAPI.git
 
 ## Iniciar el servidor
 Para iniciar el servidor y tomar los datos devueltos por el Back-end con respecto a los bares,se ingresa en al consola de comandos:
