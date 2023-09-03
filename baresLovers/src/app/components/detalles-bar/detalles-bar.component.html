@@ -1,0 +1,76 @@
+<h2>Este es el bar: {{ bar.name }}</h2>
+
+<div class="col">
+    <div class="card shadow-sm">
+      
+      <img [src]="bar.poster[0]?.url" alt="{{bar.name}}" width="359px">
+      
+  
+      <div class="card-body">
+        <p class="card-text">{{bar.ubication}}</p>
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">9 mins</small>
+        </div>
+      </div>
+    </div>
+
+    <div>
+        <h3>Titulo</h3>
+        <p class="card-text">{{bar.name}}</p>
+    </div>
+
+    <div>
+        <h3>Descripcion</h3>
+        <p class="card-text">{{bar.description}}</p>
+    </div>
+
+    <div>
+        <div>
+            <h3>Menu</h3>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                <div class="col" *ngFor="let food of bar.menu">
+                    <div class="image-container">
+                        <img [src]="food.url" alt="{{food.name}}" width="359px">
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">{{food.name}} - ${{food.price}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h3>Eventos</h3>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            <div class="col" *ngFor="let event of bar.events">
+                <div class="image-container">
+                    <img [src]="event.url" alt="{{event.nameEvent}}" width="359px">
+                </div>
+                <div class="card-body">
+                    <p class="card-text">{{event.nameEvent}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <div>
+        <h3>Post</h3>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            <div class="col" *ngFor="let post of bar.posts">
+                <div class="image-container">
+                    <img [src]="post.url" alt="{{post.namePost}}" width="359px">
+                </div>
+                <div class="card-body">
+                    <p class="card-text">{{post.namePost}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fixed-buttons-container">
+    <button class="btn btn-primary fixed-button">Nuevo Post</button>
+    <button class="btn btn-secondary fixed-button">Nuevo Evento</button>
+</div>
