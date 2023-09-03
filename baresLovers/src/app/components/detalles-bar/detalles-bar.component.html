@@ -1,9 +1,9 @@
-<h2>Este es el bar: {{ bar.name }}</h2>
+<h2>Este es el bar: {{ bar?.name }}</h2>
 
 <div class="col">
     <div class="card shadow-sm">
       
-      <img [src]="bar.poster[0]?.url" alt="{{bar.name}}" width="359px">
+      <img [src]="bar.poster[0].url" alt="{{bar.name}}" width="359px">
       
   
       <div class="card-body">

@@ -30,5 +30,9 @@ export class MongodbAPIService {
   getBarById(id: string) {
     return this.http.get<any>(`${this.URL}/${id}`);
   }
+
+  // getBarById(id: string): Bar {
+  //   return this.data.find(bar => bar._id.$oid === id);
+  // }
 }
   

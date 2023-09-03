@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-visual-bar',
@@ -6,23 +6,10 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./visual-bar.component.css']
 })
 export class VisualBarComponent {
-/* 
-  //Inyección de dependencia del servicio
-  constructor(private dataProvider: MongodbAPIService) { }
+  @Input() bar: any;
+  @Output() barClicked: EventEmitter<any> = new EventEmitter();
 
-  //Atributo con el tipo de dato de la interfaz
-  public data : Root2[] = [];
-
-  //Ejecución de la petición y suscripción de la respuesta
-  ngOnInit() {
-    this.dataProvider.getResponse().subscribe((response) => { 
-      this.data = (response as Root2[]); 
-    })
-  } */
-  @Input() bar: any; // Esto define una entrada llamada "bar" que puedes pasar al componente
-
-  constructor() { }
-
-  ngOnInit(): void {
+  onBarClick() {
+    this.barClicked.emit(this.bar);
   }
 }

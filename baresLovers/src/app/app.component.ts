@@ -25,5 +25,6 @@ export class AppComponent {
     this.dataProvider.getBars().subscribe((response) => { 
       this.data = (response as Root2[]); 
     })
+    
   } 
 }

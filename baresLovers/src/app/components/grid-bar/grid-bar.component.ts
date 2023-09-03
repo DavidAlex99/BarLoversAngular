@@ -24,6 +24,8 @@ export class GridBarComponent {
   ngOnInit() {
     this.dataProvider.getBars().subscribe(data => {
       this.data = data;
+      console.log(this.data);
     });
+    
   }
 }

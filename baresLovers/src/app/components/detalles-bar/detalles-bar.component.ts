@@ -4,8 +4,8 @@ import { ActivatedRoute } from '@angular/router';
 //Importación de la interfaz
 import {Root2} from '../../interfaces/informacion-bar';
 
- //Importación del servicio
- import { BarService } from '../../services/detallesBar/bar.service';
+  //Importación del servicio
+import {MongodbAPIService} from '../../services/barPrincipal/main-bar.service';
 
 
 @Component({
@@ -19,7 +19,7 @@ import {Root2} from '../../interfaces/informacion-bar';
 export class DetallesBarComponent implements OnInit {
   bar: any;
 
-  constructor(private route: ActivatedRoute, private barService: BarService) {}
+  constructor(private route: ActivatedRoute, private barService: MongodbAPIService) {}
 
   ngOnInit(): void {
     // Obtener el ID del bar desde la URL
