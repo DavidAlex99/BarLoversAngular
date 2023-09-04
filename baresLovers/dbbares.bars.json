@@ -4,7 +4,7 @@
   },
   "name": "Pez-azul",
   "ubication": "puerto-azul",
-  "description": "descripcion borrador del bar puerto-azul",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas "Papas Fritas" hasta el exquisito "Ratatouille", Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "caramelo",
@@ -146,15 +146,18 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
     }
   ],
   "posts": [
