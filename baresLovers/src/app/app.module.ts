@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from  '@angular/common/http';
@@ -42,12 +42,12 @@ import { NewEventComponent } from './components/newCreation/new-event/new-event.
     DetallesEventoComponent,
     DetallesPostComponent,
     NewEventComponent
-
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule  //Registro de módulo importado
+    HttpClientModule,  //Registro de módulo importado
+    RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent]

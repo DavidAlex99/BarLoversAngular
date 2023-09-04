@@ -1,1 +1,27 @@
-<p>visual-evento works!</p>
+<div class="col">
+    <div class="card shadow-sm">
+        <!-- <a [routerLink]="['/bares', evento[0]?.nameEvent]"> -->
+        <a [routerLink]="['/bares/gdfgdfgdfg/', evento[0]?.nameEvent]">
+            <div class="image-container">
+              <img [src]="evento[0]?.url" alt="{{evento[0]?.nameEvent}}">
+            </div>
+          </a>
+
+        <div class="card-body">
+            <p class="card-text">{{evento[0]?.nameEvent}}</p>
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                </div>
+                <small class="text-muted">9 mins</small>
+            </div>
+        </div>
+        <!-- <div class="card-body">
+            <p class="card-text">{{event.nameEvent}}</p>
+        </div>  -->
+        <!-- <div class="text-content">
+            <p class="texto">{{event.nameEvent}}</p>
+        </div> -->
+    </div>
+</div>
