@@ -10,8 +10,8 @@ const routes: Routes = [
   { path: '', component: GridBarComponent },
   { path: 'bares/:barId', component: DetallesBarComponent },
   { path: '', component: NewPostComponent},
-  { path: 'bares/:barId/:namePost', component: DetallesEventoComponent},
-  { path: 'bares/:barId/:nameEvent', component: DetallesEventoComponent }
+  { path: 'bares/:barId/eventos/:nameEvent', component: DetallesEventoComponent },
+  { path: 'bares/:barId/posts/:namePost', component: DetallesPostComponent },
 ];
 
 @NgModule({
