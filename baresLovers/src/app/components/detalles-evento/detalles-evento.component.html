@@ -1,1 +1,63 @@
-<p>detalles-evento works!</p>
+<div class="text-content">
+    <h2 class="titulo">{{ specificEvent?.nameEvent }}</h2>
+</div>
+
+
+<div class="col">
+
+    <div class="card shadow-sm">
+      <div class="poster-image-container">
+        <img [src]="specificEvent.url">
+      </div>
+
+  
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-center">
+          <small class="text-muted">9 mins</small>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-content">
+        <h3 class="titulo">Descripcion</h3>
+        <p class="texto">{{specificEvent.description}}</p>
+    </div>
+    <div>
+        <div>
+            <div class="text-content">
+                <h3 class="titulo">Menu</h3>
+            </div>
+
+            <div class="album py-5 bg-light">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                        <div class="col" *ngFor="let imag of specificEvent.images">
+                            <div class="card shadow-sm">
+                                <div class="image-container">
+                                    <img [src]="imag.url">
+                                </div>
+
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group">
+                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                        <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    </div>
+                                    <small class="text-muted">9 mins</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+                    
+        </div>
+    </div>
+
+</div>
+<div class="fixed-buttons-container">
+    <button class="btn btn-primary fixed-button">Nuevo Post</button>
+    <button class="btn btn-secondary fixed-button">Nuevo Evento</button>
+</div>

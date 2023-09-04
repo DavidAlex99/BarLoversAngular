@@ -10,11 +10,7 @@ export class VisualPostComponent {
   @Input() post: any;
   @Output() postClicked: EventEmitter<any> = new EventEmitter();
 
-  onEventClick() {
+  onPostClick() {
     this.postClicked.emit(this.post);
   }
-
-  
-
-  
 }

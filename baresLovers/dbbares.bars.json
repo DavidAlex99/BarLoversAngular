@@ -4,7 +4,7 @@
   },
   "name": "Pez-azul",
   "ubication": "puerto-azul",
-  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas "Papas Fritas" hasta el exquisito "Ratatouille", Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "caramelo",
@@ -147,31 +147,100 @@
     {
       "nameEvent": "evento1",
       "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
-      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
       "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
-      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
       "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
-      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!"
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -182,7 +251,7 @@
   },
   "name": "Bar-Verde",
   "ubication": "ciudad-verde",
-  "description": "descripcion borrador del bar ciudad-verde",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "caramelo",
@@ -277,21 +346,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
+    },
+    {
+      "nameEvent": "evento3",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/post1.jpg"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/post1.jpg"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "namePost": "post3",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -302,7 +451,7 @@
   },
   "name": "Bar-Rojo",
   "ubication": "ciudad-roja",
-  "description": "descripcion borrador del bar puerto-rojo",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "Alitas Picantes",
@@ -330,29 +479,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://raw.githubusercontent.com/DavidAlex99/baresLovers/main/baresLovers/src/assets/evento1.jpeg"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -363,7 +584,7 @@
   },
   "name": "Bar-Naranja",
   "ubication": "ciudad-Naranja",
-  "description": "descripcion borrador del bar puerto-naraanja",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "caramelo",
@@ -464,29 +685,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -497,7 +790,7 @@
   },
   "name": "Bar-Amarilla",
   "ubication": "ciudad-Amarilla",
-  "description": "descripcion borrador del bar puerto-amarillo",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "Alitas Picantes",
@@ -525,29 +818,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -558,7 +923,7 @@
   },
   "name": "Bar-Cafe",
   "ubication": "ciudad-Cafe",
-  "description": "descripcion borrador del bar puerto-cafe",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "Cortado",
@@ -658,29 +1023,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
-      "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "namePost": "post1",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
-      "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "namePost": "post3",
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -691,7 +1128,7 @@
   },
   "name": "Bar-Dorado",
   "ubication": "ciudad-Dorado",
-  "description": "descripcion borrador del bar puerto-dorado",
+  "description": "Ubicado en el corazón de Guayaquil, el bar Pez-azul en Puerto-azul se ha convertido en un punto de referencia para los amantes de la buena comida y la vida nocturna. Con una decoración moderna y un ambiente acogedor, este establecimiento promete una experiencia gastronómica inigualable. Desde las deliciosas Papas Fritas hasta el exquisito Ratatouille, Pez-azul ofrece un menú variado para satisfacer todos los gustos. Además, las imágenes de su menú hablan por sí solas, reflejando la dedicación y pasión que ponen en cada platillo. No es solo un lugar para comer, sino también para disfrutar de eventos especiales y compartir momentos inolvidables con amigos.",
   "menu": [
     {
       "name": "caramelo",
@@ -773,29 +1210,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -900,29 +1409,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0
@@ -1009,29 +1590,101 @@
   "events": [
     {
       "nameEvent": "evento1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento1.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento2.jpeg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }  
+      ]
     },
     {
       "nameEvent": "evento3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpeg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Evento3.jpg?raw=true",
+      "description": "¡No te pierdas el evento1 en Pez-azul! Una noche dedicada a la música, el baile y la diversión. Este evento, muy esperado por los locales de Guayaquil, promete traer las mejores vibras con DJs en vivo, cócteles especiales y, por supuesto, deliciosa comida. ¡Trae a tus amigos y únete a nosotros para una noche que seguramente no olvidarás!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion2.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/celebracion3.jpg?raw=true"
+        }
+      ]
     }
   ],
   "posts": [
     {
       "namePost": "post1",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post1.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post2",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post2.jpg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     },
     {
       "namePost": "post3",
-      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpg?raw=true"
+      "url": "https://github.com/DavidAlex99/baresLovers/blob/main/baresLovers/src/assets/bar1/bar1Post3.jpeg?raw=true",
+      "description": "¡Hola a todos nuestros queridos seguidores! Hoy en Pez-azul tuvimos un día increíble sirviendo a nuestros clientes algunos de los platillos más populares de nuestro menú. Desde la deliciosa pizza hasta el refrescante Cortado, cada plato fue preparado con amor y dedicación. Si todavía no has venido a visitarnos en Puerto-azul, te estás perdiendo de una experiencia culinaria única. ¡Echa un vistazo a algunas de las imágenes que compartimos en nuestro post y ven a visitarnos pronto!",
+      "images": [
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo1.jpg?raw=true"
+        },
+        {
+        "url": "https://github.com/DavidAlex99/BarLoversAngular/blob/main/baresLovers/src/assets/posteo2.jpg?raw=true"
+        }
+      ]
     }
   ],
   "__v": 0

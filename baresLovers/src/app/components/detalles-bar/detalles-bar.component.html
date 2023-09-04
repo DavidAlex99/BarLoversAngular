@@ -95,7 +95,7 @@
                             </div>
                         </div>
                     </div> -->
-                    <app-visual-evento  [evento]="evento" *ngFor="let evento of bar.events"></app-visual-evento>
+                    <app-visual-evento  [evento]="evento" [barId]="bar._id.$oid" *ngFor="let evento of bar.events"></app-visual-evento>
                 </div>
             </div>
         </div>         
@@ -106,6 +106,9 @@
         <h3>Post</h3>
         <div class="album py-5 bg-light">
             <div class="container">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                    <app-visual-post  [post]="post" [barId]="bar._id.$oid" *ngFor="let post of bar.posts"></app-visual-post>
+                </div>
                 <!-- <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <div class="col" *ngFor="let post of bar.posts">
                         <div class="card shadow-sm">
@@ -126,7 +129,7 @@
                         </div>
                     </div>
                 </div> -->
-                <app-visual-post  [post]="post" [barId]="bar._id.$oid" *ngFor="let post of bar.posts"></app-visual-post>
+                
             </div>
         </div>    
     </div>

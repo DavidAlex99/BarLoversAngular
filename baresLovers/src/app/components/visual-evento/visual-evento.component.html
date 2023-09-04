@@ -1,14 +1,14 @@
 <div class="col">
     <div class="card shadow-sm">
         <!-- <a [routerLink]="['/bares', evento[0]?.nameEvent]"> -->
-        <a [routerLink]="['/bares/gdfgdfgdfg/', evento[0]?.nameEvent]">
+        <a [routerLink]="['/bares/',barId , evento.nameEvent]">
             <div class="image-container">
-              <img [src]="evento[0]?.url" alt="{{evento[0]?.nameEvent}}">
+              <img [src]="evento.url" alt="{{evento.nameEvent}}">
             </div>
           </a>
 
         <div class="card-body">
-            <p class="card-text">{{evento[0]?.nameEvent}}</p>
+            <p class="card-text">{{evento.nameEvent}}</p>
             <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>

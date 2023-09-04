@@ -6,10 +6,11 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
   styleUrls: ['./visual-evento.component.css']
 })
 export class VisualEventoComponent {
+  @Input() barId!: string;
   @Input() evento: any;
   @Output() eventoClicked: EventEmitter<any> = new EventEmitter();
 
-  onBarClick() {
+  onEventoClick() {
     this.eventoClicked.emit(this.evento);
   }
 }
