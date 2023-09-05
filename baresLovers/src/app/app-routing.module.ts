@@ -12,8 +12,8 @@ const routes: Routes = [
   { path: 'bares/:barId', component: DetallesBarComponent },
   { path: 'bares/:barId/newPost', component: NewPostComponent},
   { path: 'bares/:barId/newEvent', component: NewEventComponent},
-  { path: 'bares/:barId/:namePost', component: DetallesPostComponent},
-  { path: 'bares/:barId/:nameEvent', component: DetallesEventoComponent }
+  { path: 'bares/:barId/posts/:namePost', component: DetallesPostComponent},
+  { path: 'bares/:barId/eventos/:nameEvent', component: DetallesEventoComponent }
 ];
 
 @NgModule({
