@@ -1,14 +1,13 @@
 <div class="col">
     <div class="card shadow-sm">
-        <!-- <a [routerLink]="['/bares', evento[0]?.nameEvent]"> -->
-        <a [routerLink]="['/bares/', barId ,'posts' ,post.namePost]">
+        <a [routerLink]="['/bares/', barId ,'posts' ,posteo.namePost]">
             <div class="image-container">
-              <img [src]="post.url" alt="{{post.namePost}}">
+              <img [src]="posteo.url" alt="{{posteo.namePost}}">
             </div>
         </a>
 
         <div class="card-body">
-            <p class="card-text">{{post.namePost}}</p>
+            <p class="card-text">{{posteo.namePost}}</p>
             <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -17,11 +16,5 @@
                 <small class="text-muted">9 mins</small>
             </div>
         </div>
-        <!-- <div class="card-body">
-            <p class="card-text">{{event.nameEvent}}</p>
-        </div>  -->
-        <!-- <div class="text-content">
-            <p class="texto">{{event.nameEvent}}</p>
-        </div> -->
     </div>
 </div>

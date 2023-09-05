@@ -35,7 +35,7 @@ export class DetallesEventoComponent implements OnInit {
   loadBarDetails() {
     this.mongodbAPIService.getBarById(this.barId).subscribe(data => {
       this.barDetails = data;
-      this.specificEvent = this.barDetails.events.find((event: Evento) => event.nameEvent === this.eventName);
+      this.specificEvent = this.barDetails.events.find((evento: Evento) => evento.nameEvent === this.eventName);
     });
   }
 }

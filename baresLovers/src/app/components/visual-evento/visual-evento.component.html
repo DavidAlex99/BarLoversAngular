@@ -1,6 +1,5 @@
 <div class="col">
     <div class="card shadow-sm">
-        <!-- <a [routerLink]="['/bares', evento[0]?.nameEvent]"> -->
         <a [routerLink]="['/bares/',barId ,'eventos' ,evento.nameEvent]">
             <div class="image-container">
               <img [src]="evento.url" alt="{{evento.nameEvent}}">
@@ -17,11 +16,5 @@
                 <small class="text-muted">9 mins</small>
             </div>
         </div>
-        <!-- <div class="card-body">
-            <p class="card-text">{{event.nameEvent}}</p>
-        </div>  -->
-        <!-- <div class="text-content">
-            <p class="texto">{{event.nameEvent}}</p>
-        </div> -->
     </div>
 </div>

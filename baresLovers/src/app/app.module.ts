@@ -5,8 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from  '@angular/common/http';
 import { GridBarComponent } from './components/grid-bar/grid-bar.component';
-import { GridPostComponent } from './components/grid-post/grid-post.component';
-import { GridEventComponent } from './components/grid-event/grid-event.component';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { DetallesBarComponent } from './components/detalles-bar/detalles-bar.component';
 import { NewPostComponent } from './pages/new-post/new-post.component';
@@ -21,13 +19,14 @@ import { DetallesFoodComponent } from './components/detalles-food/detalles-food.
 import { DetallesEventoComponent } from './components/detalles-evento/detalles-evento.component';
 import { DetallesPostComponent } from './components/detalles-post/detalles-post.component';
 import { CuerpoNewEventComponent } from './components/cuerpo-new-event/cuerpo-new-event.component';
+import { FormsModule } from '@angular/forms';
+
+
 
 @NgModule({
   declarations: [
     AppComponent,
     GridBarComponent,
-    GridPostComponent,
-    GridEventComponent,
     NavBarComponent,
     DetallesBarComponent,
     NewPostComponent,
@@ -44,9 +43,10 @@ import { CuerpoNewEventComponent } from './components/cuerpo-new-event/cuerpo-ne
     NewEventComponent,
   ],
   imports: [
+    FormsModule,
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,  //Registro de módulo importado
+    HttpClientModule, 
     RouterModule
   ],
   providers: [],

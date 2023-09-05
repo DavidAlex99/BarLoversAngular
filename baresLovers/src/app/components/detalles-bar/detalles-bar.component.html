@@ -38,7 +38,7 @@
             <div class="album py-5 bg-light">
                 <div class="container">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                        <div class="col" *ngFor="let food of bar.menu">
+                        <!-- <div class="col" *ngFor="let food of bar.menu">
                             <div class="card shadow-sm">
                                 <div class="image-container">
                                     <img [src]="food.url" alt="{{food.name}}" width="359px">
@@ -54,19 +54,12 @@
                                     <small class="text-muted">9 mins</small>
                                     </div>
                                 </div>
-                                <!-- <div class="card-body">
-                                    <p class="card-text">{{food.name}} - ${{food.price}}</p>
-                                </div> -->
-                                <!-- <div class="text-content">
-                                    <p class="texto">{{food.name}}</p>  
-                                </div> -->
                                 </div>
-                        </div>
+                        </div> -->
+                        <app-visual-food  [comida]="foodInd" [barId]="bar._id.$oid" *ngFor="let foodInd of bar.menu"></app-visual-food>
                     </div>
                 </div>
-            </div>
-            
-                    
+            </div>         
         </div>
     </div>
 
@@ -107,7 +100,7 @@
         <div class="album py-5 bg-light">
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                    <app-visual-post  [post]="post" [barId]="bar._id.$oid" *ngFor="let post of bar.posts"></app-visual-post>
+                    <app-visual-post  [posteo]="post" [barId]="bar._id.$oid" *ngFor="let post of bar.posts"></app-visual-post>
                 </div>
             </div>
         </div>    

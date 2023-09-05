@@ -13,6 +13,10 @@ Por defecto, Angular toma el puerto 4200.
 Asegurarse de que al iniciar  el servidor, este puerto no se encuentre ocupado, puesto que este numero se encuentra registrado en el Back-end para que pueda hacer peticiones CORS.
 Si toma otro puerto, no se conectara con el Back-end
 
+## Notas (Estructura)
+Debido a la presencia de muchos componentes, y para no causar confusion en saber cual es el rol de cada uno, se explica como es la estructura e interaccion de cada uno en el proyecto 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
