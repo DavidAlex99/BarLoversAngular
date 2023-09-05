@@ -6,7 +6,6 @@ import {Root2} from '../../interfaces/informacion-bar';
 
   //Importación del servicio
 import {MongodbAPIService} from '../../services/barPrincipal/main-bar.service';
-import { MapComponent } from "../map/map.component";
 
 @Component({
   selector: 'app-detalles-bar',
