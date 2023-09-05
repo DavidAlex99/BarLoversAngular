@@ -10,8 +10,10 @@ import { GridEventComponent } from './components/grid-event/grid-event.component
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { DetallesBarComponent } from './components/detalles-bar/detalles-bar.component';
 import { NewPostComponent } from './pages/new-post/new-post.component';
+import { NewEventComponent } from './pages/new-event/new-event.component';
 import { CuerpoNewPostComponent } from './components/cuerpo-new-post/cuerpo-new-post.component';
 import { MultimediaNewPostComponent } from './components/multimedia-new-post/multimedia-new-post.component';
+import { MultimediaNewEventComponent } from './components/multimedia-new-event/multimedia-new-event.component';
 import { VisualBarComponent } from './components/visual-bar/visual-bar.component';
 import { NewsComponent } from './components/news/news.component';
 import { VisualFoodComponent } from './components/visual-food/visual-food.component';
@@ -20,7 +22,7 @@ import { VisualPostComponent } from './components/visual-post/visual-post.compon
 import { DetallesFoodComponent } from './components/detalles-food/detalles-food.component';
 import { DetallesEventoComponent } from './components/detalles-evento/detalles-evento.component';
 import { DetallesPostComponent } from './components/detalles-post/detalles-post.component';
-import { NewEventComponent } from './components/newCreation/new-event/new-event.component';
+import { CuerpoNewEventComponent } from './components/cuerpo-new-event/cuerpo-new-event.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +34,9 @@ import { NewEventComponent } from './components/newCreation/new-event/new-event.
     DetallesBarComponent,
     NewPostComponent,
     CuerpoNewPostComponent,
+    CuerpoNewEventComponent,
     MultimediaNewPostComponent,
+    MultimediaNewEventComponent,
     VisualBarComponent,
     NewsComponent,
     VisualFoodComponent,
@@ -41,7 +45,7 @@ import { NewEventComponent } from './components/newCreation/new-event/new-event.
     DetallesFoodComponent,
     DetallesEventoComponent,
     DetallesPostComponent,
-    NewEventComponent
+    NewEventComponent,
   ],
   imports: [
     BrowserModule,
