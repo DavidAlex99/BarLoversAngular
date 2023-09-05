@@ -9,8 +9,8 @@ import { DetallesEventoComponent } from './components/detalles-evento/detalles-e
 const routes: Routes = [
   { path: '', component: GridBarComponent },
   { path: 'bares/:barId', component: DetallesBarComponent },
-  { path: '', component: NewPostComponent},
-  { path: 'bares/:barId/:namePost', component: DetallesEventoComponent},
+  { path: 'bares/:barId/newPost', component: NewPostComponent},
+  { path: 'bares/:barId/:namePost', component: DetallesPostComponent},
   { path: 'bares/:barId/:nameEvent', component: DetallesEventoComponent }
 ];
 
