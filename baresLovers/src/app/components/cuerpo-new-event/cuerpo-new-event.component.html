@@ -1,60 +1,62 @@
 <div>
-    <div>
-        <button>Volver</button>
-    </div>
-    <div>
+    <form (ngSubmit)="submitForm()" #formulario="ngForm" enctype="multipart/form-data">
         <div>
-            <p>Titulo</p>
+            <div>
+                <button type="button" (click)="goBack()">Volver</button>
+            </div>
+            <div>
+                <div>
+                    <p>Titulo</p>
+                </div>
+                <div>
+                    <input type="text" name="titulo" [(ngModel)]="formularioData.titulo" placeholder="Ingrese título" required>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>Descripción</p>
+                </div>
+                <div>
+                    <input type="text" name="descripcion" [(ngModel)]="formularioData.descripcion" placeholder="Ingrese Descripción" required>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>Anfitrión</p>
+                </div>
+                <div>
+                    <input type="text" name="anfitrion" [(ngModel)]="formularioData.anfitrion" placeholder="Ingrese el anfitrión" required>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>Fecha</p>
+                </div>
+                <div>
+                    <input type="text" name="fecha" [(ngModel)]="formularioData.fecha" placeholder="Ingrese la fecha" required>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>Hora</p>
+                </div>
+                <div>
+                    <input type="text" name="hora" [(ngModel)]="formularioData.hora" placeholder="Ingrese la hora" required>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>Archivo multimedia</p>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <input class="foto-evento" type="file" name="archivo_multimedia" [(ngModel)]="formularioData.archivo_multimedia" accept="image/png, image/jpeg" required>
+                </div>
+            </div>
+            <div>
+                <button type="submit">Publicar</button>
+            </div>
         </div>
-        <div>
-            <input type="text" placeholder="Ingrese titulo">
-        </div>
-    </div>
-    <div>
-        <div>
-            <p>Descripcion</p>
-        </div>
-        <div>
-            <input type="text" placeholder="Ingrese Descripcion">
-        </div>
-    </div>
-    <div>
-        <div>
-            <p>Anfitrion</p>
-        </div>
-        <div>
-            <input type="text" placeholder="Ingrese el anfitrion">
-        </div>
-    </div>
-    <div>
-        <div>
-            <p>Fecha</p>
-        </div>
-        <div>
-            <input type="text" placeholder="Ingrese la fecha">
-        </div>
-    </div>
-    <div>
-        <div>
-            <p>Hora</p>
-        </div>
-        <div>
-            <input type="text" placeholder="Ingrese la hora">
-        </div>
-    </div>
-    <div>
-        <div>
-            <p>Archivo multimedia</p>
-        </div>
-    </div>
-    <div>
-        <div>
-            <input class="foto-evento" type="file" accept="image/png, image/jpeg">
-        </div>
-    </div>
-    <div>
-        <button>
-            publicar
-        </button>
-    </div>
+    </form>
 </div>
