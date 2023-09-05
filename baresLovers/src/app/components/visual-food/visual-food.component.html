@@ -1,1 +1,19 @@
-<p>visual-food works!</p>
+<div class="col">
+    <div class="card shadow-sm">
+        <div class="image-container">
+            <img [src]="comida.url" alt="{{comida.namePhoto}}">
+        </div>
+
+        <div class="card-body">
+            <p class="card-text">{{comida.name}} Precio: <del *ngIf="discountedPrice">{{ comida.price | number:'1.2-2' }}</del> <span *ngIf="discountedPrice">{{ discountedPrice | number:'1.2-2' }}</span></p>
+            
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                    <input type="number" [(ngModel)]="discountPercentage" placeholder="Descuento %" />
+                    <button type="button" (click)="applyDiscount()" class="btn btn-sm btn-outline-secondary">Aplicar descuentos</button>
+                </div>
+                <small class="text-muted">9 mins</small>
+            </div>
+        </div>
+    </div>
+</div>

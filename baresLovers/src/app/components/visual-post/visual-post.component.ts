@@ -7,10 +7,10 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
 })
 export class VisualPostComponent {
   @Input() barId!: string;
-  @Input() post: any;
+  @Input() posteo: any;
   @Output() postClicked: EventEmitter<any> = new EventEmitter();
 
   onPostClick() {
-    this.postClicked.emit(this.post);
+    this.postClicked.emit(this.posteo);
   }
 }

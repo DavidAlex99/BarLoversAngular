@@ -36,7 +36,8 @@ export class DetallesPostComponent implements OnInit {
   loadBarDetails() {
     this.mongodbAPIService.getBarById(this.barId).subscribe(data => {
       this.barDetails = data;
-      this.specificPost = this.barDetails.events.find((post: Post) => post.namePost === this.postName);
+      
+      this.specificPost = this.barDetails.posts.find((posteo: Post) => posteo.namePost === this.postName);
     });
   }
 }

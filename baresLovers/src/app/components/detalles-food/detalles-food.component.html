@@ -1,1 +1,27 @@
-<p>detalles-food works!</p>
+<div class="text-content">
+    <h2 class="titulo">{{ specificFood?.name }}</h2>
+</div>
+
+<div class="col">
+    <div class="card shadow-sm">
+        <div class="poster-image-container">
+            <img [src]="specificFood.url" width="359px">
+        </div>
+
+        <div class="card-body">
+            <p class="card-text">{{specificFood.name}}</p>
+            <p class="card-text">Precio Original: {{ specificFood.price }}</p>
+            <p class="card-text" *ngIf="discountedPrice">Precio con Descuento: {{ discountedPrice }}</p>
+
+            <!-- Agregar el input y el botón aquí -->
+            <div>
+                <input type="number" placeholder="Ingresar descuento en %" #discountInput>
+                <button (click)="applyDiscount(discountInput.value)">Aplicar Descuento</button>
+            </div>
+
+            <div class="d-flex justify-content-between align-items-center">
+              <small class="text-muted">9 mins</small>
+            </div>
+        </div>
+    </div>
+</div>
