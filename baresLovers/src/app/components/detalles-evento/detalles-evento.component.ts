@@ -25,8 +25,11 @@ export class DetallesEventoComponent implements OnInit {
 
   ngOnInit(): void {
     this.barId = this.route.snapshot.paramMap.get('barId') || '';
-    this.eventName = this.route.snapshot.paramMap.get('eventName') || '';
+    this.eventName = this.route.snapshot.paramMap.get('nameEvent') || '';
     this.loadBarDetails();
+    console.log(this.route.snapshot);
+    console.log(this.eventName);
+    console.log(this.barId);
   }
 
   loadBarDetails() {
