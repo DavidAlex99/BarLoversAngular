@@ -20,6 +20,7 @@ import { DetallesEventoComponent } from './components/detalles-evento/detalles-e
 import { DetallesPostComponent } from './components/detalles-post/detalles-post.component';
 import { CuerpoNewEventComponent } from './components/cuerpo-new-event/cuerpo-new-event.component';
 import { FormsModule } from '@angular/forms';
+import { MapComponent } from './components/map/map.component';
 
 
 
@@ -41,6 +42,7 @@ import { FormsModule } from '@angular/forms';
     DetallesEventoComponent,
     DetallesPostComponent,
     NewEventComponent,
+    MapComponent,
   ],
   imports: [
     FormsModule,
